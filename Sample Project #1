@@ -1,12 +1,6 @@
 # Sample-Projects
 These are some of my projects that I have completed during my Computer Programming 3 class
 
-/*Nameer Qureshi
- * 5/8/15
- * Period 5
- * This class represents a DJ Store that will allow the user to sell and add records at their leisure
- */
-
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.*;
